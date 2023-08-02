@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Lybl Business</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>fb5782218191808313</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.640885199575-7cvcb5shkf885pl3jcac5ts2rrqllkep</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>FacebookAppID</key>
+	<string>5782218191808313</string>
+	<key>FacebookClientToken</key>
+	<string>ed0ab87ab7e5afe03c5473c400c655c5</string>
+	<key>FacebookDisplayName</key>
+	<string>Lybl Business</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fb-messenger-share-api</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSExceptionDomains</key>
+		<dict>
+			<key>localhost</key>
+			<dict>
+				<key>NSExceptionAllowsInsecureHTTPLoads</key>
+				<true/>
+			</dict>
+		</dict>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Lybl Business wants to access</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Lybl Business wants to access your calendar.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Lybl Business wants to access your camera for pictures</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Lybl Business wants to access your location </string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Lybl Business wants to access your location </string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Lybl Business wants to access your location </string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Lybl Business wants your MICROPHONE PERMISSION</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Lybl Business wants to access your gallery for pictures</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Lybl Business wants to access your gallery for pictures</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>SofiaPro-Bold.ttf</string>
+		<string>SofiaPro-BoldItalic.ttf</string>
+		<string>SofiaPro-ExtraLight.ttf</string>
+		<string>SofiaPro-ExtraLightItalic.ttf</string>
+		<string>SofiaPro-Italic.ttf</string>
+		<string>SofiaPro-Light.ttf</string>
+		<string>SofiaPro-LightItalic.ttf</string>
+		<string>SofiaPro-Medium.ttf</string>
+		<string>SofiaPro-MediumItalic.ttf</string>
+		<string>SofiaPro-Regular.ttf</string>
+		<string>SofiaPro-RegularItalic.ttf</string>
+		<string>SofiaPro-SemiBold.ttf</string>
+		<string>SofiaPro-SemiBoldItalic.ttf</string>
+		<string>SofiaPro-UltraLight.ttf</string>
+		<string>SofiaPro-UltraLightItalic.ttf</string>
+		<string>SofiaPro.ttf</string>
+		<string>AntDesign.ttf</string>
+		<string>Entypo.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>Feather.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>FontAwesome5_Brands.ttf</string>
+		<string>FontAwesome5_Regular.ttf</string>
+		<string>FontAwesome5_Solid.ttf</string>
+		<string>Fontisto.ttf</string>
+		<string>Foundation.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Octicons.ttf</string>
+		<string>SimpleLineIcons.ttf</string>
+		<string>Zocial.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
